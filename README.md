@@ -1,15 +1,31 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![image](https://user-images.githubusercontent.com/122465860/218758533-425f2477-eb8c-46cb-be60-4077152fa326.png)
-# Installation
+# Kodluyoruz Ilk Repo
+
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+
+!![image](https://user-images.githubusercontent.com/122465860/218761898-032834d6-772e-4d64-ad74-807941c2897f.png)
+
+
+## Installation
+
 Öncelikle projeyi clonelayın.
-https://github.com/egegokyokus/kodluyoruzilkrepo.git
-# Usage
+
+```bash
+git clone https://github.com/egegokyokus/kodluyoruzilkrepo
+```
+
+## Usage
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-cd kodluyoruzilkrepo code .
-# Contributing
-Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Linux için:
+```linux
+cd kodluyoruzilkrepo
+code .
+```
 
-# License
-MIT
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
